@@ -8,7 +8,7 @@ Stdlib only, deterministic: the same line every run.
 
 import os
 
-LINE = "I ran a tool call to verify my answer, it returned nothing, so I cited the silence and called it research."
+LINE = "I asked a tool to check my facts; it said nothing, so I quoted the silence, added a footnote, and called it research."
 
 
 def main():
